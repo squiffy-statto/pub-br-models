@@ -1,0 +1,1 @@
+Example code for simulations and analyses performed as part of the Pharmaceutical Statistics paper: Bayesian joint modelling of benefit risk in drug development: Maria J. Costa & Thomas Drury: First published: 22 February 2018: https://doi.org/10.1002/pst.1852
